@@ -1,7 +1,7 @@
 
 # Chess Puzzles from Lichess
 
-A streamlined tool designed to fetch and manage tactical puzzles from the [Lichess Open Database](https://database.lichess.org/#puzzles). This project allows users to retrieve high-quality chess tactics for analysis, training, or application development.
+A streamlined tool designed to fetch and manage tactical puzzles from the [Lichess Open Database]([https://database.lichess.org/#puzzles](https://huggingface.co/datasets/Lichess/chess-puzzles)). This project allows users to retrieve high-quality chess tactics for analysis, training, or application development.
 
 ## 🚀 Features
 
