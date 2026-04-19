@@ -41,9 +41,7 @@ The repository comes pre-loaded with **20 puzzles**. You can find these in the p
 ## 📁 Project Structure
 ```text
 ├── puzzles_fetcher.py   # Main script for data retrieval
-├── puzzles.csv          # Initial set of 20 sample puzzles
-├── src/                 # (Optional) Core logic and utility scripts
-├── requirements.txt     # List of required Python packages
+├── puzzles_parts         # Initial set of 20 sample puzzles
 └── README.md            # Project documentation
 
 ```
