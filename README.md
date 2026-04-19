@@ -26,8 +26,8 @@ A streamlined tool designed to fetch and manage tactical puzzles from the [Liche
  3. **Install Dependencies**:
    *(If you have a requirements file)*
    ```bash
-   pip install -r requirements.txt
-   
+   pip install requests
+
    ```
 ## 📖 Usage
 ### Fetching New Puzzles
