@@ -27,6 +27,7 @@ A streamlined tool designed to fetch and manage tactical puzzles from the [Liche
    *(If you have a requirements file)*
    ```bash
    pip install requests
+   pip install json
 
    ```
 ## 📖 Usage
