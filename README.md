@@ -6,7 +6,7 @@ A streamlined tool designed to fetch and manage tactical puzzles from the [Liche
 ## 🚀 Features
 
 - **puzzles_fetcher.py**: A dedicated script to automate the process of downloading and filtering puzzle data directly from Lichess.
-- **Ready-to-Use Data**: Includes an initial set of **20 curated puzzles** to get you started immediately without any configuration.
+- **Ready-to-Use Data**: Includes an initial set of **50 curated puzzles** to get you started immediately without any configuration.
 - **Detailed Metadata**: Each puzzle includes FEN strings, solution moves, Elo ratings, and tactical themes.
 
 ## 🛠 Installation
@@ -38,11 +38,11 @@ python puzzles_fetcher.py
 
 ```
 ### Exploring the Sample Set
-The repository comes pre-loaded with **20 puzzles**. You can find these in the project directory (e.g., puzzles.csv or data/), ready for parsing or manual study.
+The repository comes pre-loaded with **50 puzzles**. You can find these in the project directory (e.g., puzzles.csv or data/), ready for parsing or manual study.
 ## 📁 Project Structure
 ```text
 ├── puzzles_fetcher.py   # Main script for data retrieval
-├── puzzles_parts         # Initial set of 20 sample puzzles
+├── puzzles_parts         # Initial set of 50 sample puzzles
 └── README.md            # Project documentation
 
 ```
